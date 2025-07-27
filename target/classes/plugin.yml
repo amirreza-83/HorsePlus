@@ -1,0 +1,20 @@
+name: Horse_Plus
+version: '1.0'
+main: top.minestar.Horse_Plus.Horse_Plus
+api-version: '1.13'
+authors:
+  - amirreza83
+  - Hossein887
+  - Kian_ga
+description: A plugin to spawn horses as a means of transport for role-playing games.
+
+commands:
+  horse:
+    description: Creates a horse for the player
+    usage: /<command>
+    permission: horse.ride
+
+permissions:
+  horse.ride:
+    description: Allows players to use the horse command
+    default: op
