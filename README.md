@@ -12,7 +12,7 @@ A simple Minecraft plugin that allows players to summon a saddled horse with one
 
 ## 📥 Installation
 
-1. Download the latest `.jar` from [Releases](https://github.com/amirreza-83/HorsePlus/releases/tag/Alpha)
+1. Download the latest `.jar` from [Releases](https://github.com/amirreza-83/HorsePlus/releases/tag/Alpha) or [spigot](https://www.spigotmc.org/resources/horse-plus-spawn-a-rideable-horse-anytime-1-8-1-21-8.127364/)
 2. Put it in your server's `plugins` folder
 3. Restart or reload the server
 4. Enjoy riding!
